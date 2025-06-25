@@ -16,7 +16,7 @@ Frost Box is a Subscription Box Service Platform designed to provide users with 
 
 ## Screenshots
 
-![Home Page](https://i.ibb.co/your-screenshot-url/homepage.png)  
+![Home Page](https://raw.githubusercontent.com/naeem-web84/frostBox-new/refs/heads/main/Screenshot%202025-06-25%20134350.png)  
 *Home page featuring slider, subscription services, and responsive navbar.*
 
 ---
