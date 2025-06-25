@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "long_description": "Experience winter like never before with the Deshi Comfort Box, packed with love and warmth from rural Bengal. From the rich sweetness of Nolen Gur to handmade wool socks, this is your winter hug in a box.",
+    "ingredients": ["Nolen Gur", "Handmade Wool", "Clay Materials"],
+    "cultural_significance": "Inspired by Bangladeshi village winters where tradition meets comfort.",
+    "customer_favorite": true,
+    "image_url": "https://en-media.thebetterindia.com/uploads/2022/11/d930af0032f141c8a004057a38c2887e_260779568_761674515228339_1233989970338001282_n-1667999855.jpg",
+    "special_tradition": "Gifted to loved ones during Poush season in rural areas.",
+    "serving_suggestion": "Enjoy with a warm blanket on a foggy morning and a cup of dudh-chaa.",
+    "regional_touch": "Kushtia & Manikganj craft inspiration"
+  },
+  {
+    "id": 2,
+    "long_description": "Protect your body and soul this winter with Winter Wellness Essentials. Featuring everything from herbal tea to protect your throat, to balm for your nose, and moisturizing jelly for your skin.",
+    "ingredients": ["Vaseline", "Chamomile", "Essential Oils"],
+    "cultural_significance": "Winter dry skin and cold relief rooted in local remedies.",
+    "customer_favorite": false,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3wU_0ONSrSYAz5UIKwg3Qm4fv3jxxPDyGQ&s",
+    "special_tradition": "Inspired by 'maalish' culture and natural healing.",
+    "serving_suggestion": "Use after a warm shower, followed by herbal tea in the evening.",
+    "regional_touch": "Sylheti and Mymensingh herbal remedy traditions"
+  },
+  {
+    "id": 3,
+    "long_description": "Bring the bustling flavors of the streets home! The Street Food Lovers’ Box helps recreate classic Bangladeshi snacks like Fuchka and Chotpoti, perfect for winter evenings.",
+    "ingredients": ["Tamarind", "Chickpeas", "Spices"],
+    "cultural_significance": "Celebrates Dhaka’s vibrant street food culture.",
+    "customer_favorite": true,
+    "image_url": "https://www.tbsnews.net/sites/default/files/styles/infograph/public/images/2022/10/08/1_1.jpg",
+    "special_tradition": "Inspired by late-night fuchka dates & winter melas.",
+    "serving_suggestion": "Prepare with friends or family for an evening snack fest.",
+    "regional_touch": "Dhaka University campus & Rajshahi spice markets"
+  },
+  {
+    "id": 4,
+    "long_description": "Celebrate Poush Parbon with this beautifully curated box featuring all the essentials for pitha making. It brings Bengali heritage and festivity straight to your kitchen.",
+    "ingredients": ["Chaler Guro", "Narikel", "Molasses"],
+    "cultural_significance": "A tribute to the Bengali harvest festival rooted in tradition.",
+    "customer_favorite": true,
+    "image_url": "https://images.slurrp.com/prod/articles/rutc1ka20e.webp?impolicy=slurrp-20210601&width=1200&height=900",
+    "special_tradition": "Replicates family pitha-making evenings during winter.",
+    "serving_suggestion": "Cook with loved ones during the first full moon of Poush.",
+    "regional_touch": "Natore, Bogura & Faridpur pitha styles"
+  },
+  {
+    "id": 5,
+    "long_description": "Perfect for cozy nights in, the Cozy Reads Box includes heartwarming Bengali stories, a shawl to wrap yourself in, and instant coffee to complete the vibe.",
+    "ingredients": ["Fiction Books", "Wool Shawl", "Coffee"],
+    "cultural_significance": "Inspired by the love for literature and warmth during Bengali winters.",
+    "customer_favorite": false,
+    "image_url": "https://static.vecteezy.com/system/resources/thumbnails/046/129/171/small/cozy-setting-with-a-hot-chocolate-mug-topped-with-marshmallows-and-an-open-book-under-warm-fairy-lights-concept-of-relaxation-comfort-reading-winter-warmth-christmas-photo.jpeg",
+    "special_tradition": "Reflects the timeless tradition of winter reading in shawls.",
+    "serving_suggestion": "Read by candlelight or fairy lights with soft lo-fi music.",
+    "regional_touch": "Inspired by Kolkata Bangla literature and Dinajpur shawls"
+  },
+  {
+    "id": 6,
+    "long_description": "This winter-special joy box for kids includes fun accessories and warm drinks with stories to keep them engaged and cheerful throughout the season.",
+    "ingredients": ["Chocolate", "Flavored Milk Powder", "Children’s Book"],
+    "cultural_significance": "Keeps tradition alive while making winter fun for kids.",
+    "customer_favorite": true,
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1C3jcsdi7wg_pqqiYaL3YW8wZvIkrf5xiqw&s",
+    "special_tradition": "Reminds of grandma’s bedtime stories under quilts.",
+    "serving_suggestion": "Read aloud under a kantha with a mug of hot chocolate.",
+    "regional_touch": "Noakhali & Comilla folk tale inspiration"
+  }
+]

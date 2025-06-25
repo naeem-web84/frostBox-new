@@ -1,0 +1,110 @@
+[
+    {
+      "id": 1,
+      "name": "Deshi Comfort Box",
+      "thumbnail": "https://i.postimg.cc/xCRXdD5G/Chat-GPT-Image-May-6-2025-06-27-34-AM-1.png",
+      "frequency": "Monthly",
+      "price": 799,
+      "description": "A cozy winter bundle with nolen gur sweets, handmade socks, and a traditional clay cup.",
+      "tech_category": "Winter Lifestyle",
+      "features": ["Nolen Gur Sweets", "Woolen Socks", "Matir Cup"],
+      "subscription_benefits": [
+        "Exclusive Bengali Winter Delights",
+        "Handcrafted Local Items",
+        "Seasonal Comfort"
+      ],
+      "ratings": 4.7,
+      "number_of_reviews": 210
+    },
+    {
+      "id": 2,
+      "name": "Winter Wellness Essentials",
+      "thumbnail": "https://i.postimg.cc/gcgwFpnm/Chat-GPT-Image-May-6-2025-06-53-33-AM.png",
+      "banner": "https://images.unsplash.com/photo-1616077168072-5dcbe4a5b7e0",
+      "frequency": "Monthly",
+      "price": 599,
+      "description": "Must-haves to protect your skin and health during dry Bangladeshi winters.",
+      "tech_category": "Personal Care",
+      "features": ["Petroleum Jelly", "Herbal Tea", "Nasal Balm"],
+      "subscription_benefits": [
+        "Health & Skin Support",
+        "Relaxing Herbal Blends",
+        "Winter Survival Kit"
+      ],
+      "ratings": 4.5,
+      "number_of_reviews": 180
+    },
+    {
+      "id": 3,
+      "name": "Street Food Lovers’ Box",
+      "thumbnail": "https://i.postimg.cc/k5PGFXhF/Chat-GPT-Image-May-6-2025-07-07-41-AM.png",
+      "banner": "https://images.unsplash.com/photo-1576568690961-2a9a1e6675f4",
+      "frequency": "Monthly",
+      "price": 499,
+      "description": "Everything you need to recreate the warmth and spice of Bangladeshi winter street food.",
+      "tech_category": "Food & Snacks",
+      "features": ["Fuchka Kit", "Chotpoti Masala", "Dry Roasted Peanuts"],
+      "subscription_benefits": [
+        "Authentic Street Flavors",
+        "Ready-to-Make Packs",
+        "Spicy & Savory Treats"
+      ],
+      "ratings": 4.6,
+      "number_of_reviews": 265
+    },
+    {
+      "id": 4,
+      "name": "Poush Parbon Festival Box",
+      "thumbnail": "https://i.postimg.cc/fyyRT3JZ/ed3f158cbdd8a642ce2426fe28931efd.jpg",
+      "banner": "https://images.unsplash.com/photo-1591622663250-803be8215e1e",
+      "frequency": "Seasonal",
+      "price": 899,
+      "description": "Celebrate Bengali tradition with pitha-making kits and cultural goodies.",
+      "tech_category": "Cultural Cuisine",
+      "features": ["Chaler Guro & Narikel", "Traditional Recipes", "Pitha Tools"],
+      "subscription_benefits": [
+        "Festival Essentials",
+        "Taste of Home",
+        "Family-Friendly Recipes"
+      ],
+      "ratings": 4.9,
+      "number_of_reviews": 140
+    },
+    {
+      "id": 5,
+      "name": "Cozy Reads Box",
+      "thumbnail": "https://i.postimg.cc/prmPMg6L/autumn-autumn-leaves-a-hot-steaming-cup-of-coffee-and-a-warm-blanket-seasonal-morning-coffee-sunday.jpg",
+      "banner": "https://images.unsplash.com/photo-1544717305-2782549b5136",
+      "frequency": "Monthly",
+      "price": 749,
+      "description": "Unwind with a Bengali short story book, a warm shawl, and instant coffee.",
+      "tech_category": "Leisure & Books",
+      "features": ["Bengali Short Stories", "Soft Winter Shawl", "Instant Coffee Sachets"],
+      "subscription_benefits": [
+        "Relaxing Evenings",
+        "Literary Escape",
+        "Comfort & Warmth"
+      ],
+      "ratings": 4.8,
+      "number_of_reviews": 172
+    },
+    {
+      "id": 6,
+      "name": "Kids’ Winter Joy Box",
+      "thumbnail": "https://i.postimg.cc/855SL2Dm/Chat-GPT-Image-May-6-2025-07-16-14-AM.png",
+      "banner": "https://images.unsplash.com/photo-1543163521-1bf539c55dd3",
+      "frequency": "Monthly",
+      "price": 650,
+      "description": "Keep your kids warm and happy with fun and practical winter goodies.",
+      "tech_category": "Kids & Family",
+      "features": ["Colorful Ear Muffs", "Hot Chocolate Mix", "Bengali Storybook"],
+      "subscription_benefits": [
+        "Kid-Friendly Accessories",
+        "Warm Beverages",
+        "Fun & Learning"
+      ],
+      "ratings": 4.6,
+      "number_of_reviews": 130
+    }
+  ]
+  
