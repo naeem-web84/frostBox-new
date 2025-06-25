@@ -15,7 +15,7 @@
 
 ## 📸 Screenshot Preview
 
-![FrostBox Homepage Preview](https://i.ibb.co/YBtF6NR/frostbox-preview.png)
+![FrostBox Homepage Preview](https://github.com/naeem-web84/frostBox-new/blob/main/Screenshot%202025-06-25%20134350.png)
 
 ---
 
