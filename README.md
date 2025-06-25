@@ -1,72 +1,76 @@
- # Frost Box - Subscription Box Service Platform
+ # ❄️ FrostBox – Personalized Subscription Box Service
+
+> **Assignment-09 | Category: Lily**  
+> A fully responsive, Firebase-authenticated, single-page React app that allows users to explore and manage customized monthly subscription boxes!
 
 ---
 
-## Project Overview
+## 🔗 Live Preview
 
-Frost Box is a Subscription Box Service Platform designed to provide users with a personalized monthly subscription experience. Users can browse, subscribe to, and manage curated subscription boxes tailored to their interests. The platform offers an easy-to-use interface with secure authentication, dynamic content, and responsive design to ensure seamless usage across devices.
+🌐 [Visit Live Website](https://frost-box-a9-ab4d6.web.app/)
 
----
-
-## Live Demo
-
-🌐 [View Live Site](https://frost-box-a9-ab4d6.web.app/)
+🗂️ [GitHub Repository](https://github.com/naeem-web84/frostBox-new)
 
 ---
 
-## Screenshots
+## 📸 Screenshot Preview
 
-![Home Page](https://raw.githubusercontent.com/naeem-web84/frostBox-new/refs/heads/main/Screenshot%202025-06-25%20134350.png)  
-*Home page featuring slider, subscription services, and responsive navbar.*
-
----
-
-## Key Features
-
-- **User Authentication**: Email/password login, Google login, registration with password validation, and forget password functionality (without email verification).
-- **Responsive Design**: Fully responsive on mobile, tablet, and desktop devices.
-- **Subscription Services**: Browse subscription boxes displayed from JSON data with detailed protected pages.
-- **Protected Routes**: Private pages such as subscription service details and user profile with persistent authentication state.
-- **User Profile Management**: Edit user name and photoURL via Firebase updateProfile method.
-- **Reviews and Ratings**: Submit reviews and ratings on subscription service detail pages.
-- **Dynamic Page Titles**: Page titles update based on the current route.
-- **404 Page**: Custom not found page for unmatched routes.
-- **Extra Protected Route**: An additional meaningful private route (My Profile).
-- **Animations**: Swiper slider integrated for the homepage slider.
-- **Toast Notifications**: Real-time feedback using SweetAlert/toast for success and error messages.
+![FrostBox Homepage Preview](https://i.ibb.co/YBtF6NR/frostbox-preview.png)
 
 ---
 
-## Technology Stack
+## 🎯 Project Overview
 
-- **Frontend**: React.js, React Router
-- **Styling**: Tailwind CSS, DaisyUI
-- **Authentication & Backend**: Firebase Authentication, Firebase Hosting
-- **State Management**: React Hooks
-- **Animations & UI Enhancements**: Swiper Slider, SweetAlert2 (toast)
-- **Hosting**: Firebase Hosting
+FrostBox is a feature-rich Subscription Box Service Platform where users can:
 
----
+- Explore curated boxes based on their interests 🧩
+- View detailed info of each service 📦
+- Leave ratings & reviews ⭐
+- Securely register/login 🔐
+- Manage their profile 👤
 
-## Dependencies
-
-- react
-- react-dom
-- react-router-dom
-- firebase
-- tailwindcss
-- daisyui
-- swiper
-- sweetalert2
-- react-hot-toast
-
-(See `package.json` for full list)
+It’s crafted with React and Firebase and offers a delightful and mobile-friendly user experience that supports local services.
 
 ---
 
-## Installation & Running Locally
+## 🚀 Key Features
 
-1. **Clone the repository**
+- 🔐 **Email/Password & Google Authentication**
+- 👤 **User Profile Management (Edit Name & Photo)**
+- 🔄 **Persistent Login using Firebase Auth**
+- 🔒 **Protected Routes with Redirection**
+- 💬 **Review & Rating System**
+- 🧭 **Dynamic Routing with Page Titles**
+- 📵 **Custom 404 Not Found Page**
+- 🎥 **Swiper Slider on Homepage**
+- 🔁 **Forget Password with Gmail Redirect**
+- 📱 **Fully Responsive Design (Mobile, Tablet, Desktop)**
+- 🛠️ **Loader on Auth State Change**
+- 🔔 **Toast/SweetAlert for Feedback**
+- 🔒 **Extra Protected Route: My Profile**
 
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, React Router DOM
+- **UI/Styling**: Tailwind CSS, DaisyUI
+- **Authentication & Hosting**: Firebase Auth & Hosting
+- **State Management**: React Hooks, Context API
+- **Notifications**: react-hot-toast, SweetAlert2
+- **Animation/Slider**: Swiper.js
+
+---
+
+## 📦 Dependencies
+
+```json
+"react": "^18.x",
+"react-dom": "^18.x",
+"react-router-dom": "^6.x",
+"firebase": "^10.x",
+"tailwindcss": "^3.x",
+"daisyui": "^4.x",
+"swiper": "^11.x",
+"react-hot-toast": "^2.x",
+"sweetalert2": "^11.x"
